@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**maxisepYT1/maxisepYT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **maxisepYT1/maxisepYT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+🥁 I introduce myself, I'm **maxisepYT** nice to meet you!
+
+🎮 I'm a coder and mod maker at fnf!
+
+🕹 I'm on a project called "**Max Engine**" for fnf :)
+
+📊 Well I leave you my github statistics!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxisepYT1&hide_border=true&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=DEG,0064c9,00376e)
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
